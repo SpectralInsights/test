@@ -54,7 +54,7 @@ domain("www.githubstatus.com") {
         --borderColor-done-emphasis: #1a1d20 !important;
         --borderColor-success-emphasis: #1a1d20 !important;
         --fgColor-success: #1a1d20 !important;
-        --bgColor-success-emphasis: #1a1d20; !important;
+        --bgColor-success-emphasis: #1a1d20 !important;
         --bgColor-done-emphasis: var(--vspr-accent) !important;
         --fontStack-monospace: "Geist Mono", monospace !important;
         --fontStack-sansSerifDisplay: "Geist", sans-serif !important;
